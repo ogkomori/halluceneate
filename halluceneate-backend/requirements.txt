@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+watchdog
+PyMuPDF
+python-docx
+pytesseract
+sentence-transformers
+faiss-cpu
+torch
