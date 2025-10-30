@@ -1,0 +1,48 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# === Virtual Environments ===
+venv/
+.env/
+env/
+.venv/
+
+# === Environment Variables ===
+*.env
+
+# === IDEs ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs & Temporary Files ===
+*.log
+*.tmp
+*.bak
+
+# === Bytecode Cache ===
+*.egg-info/
+dist/
+build/
+
+# === Local Data & Models ===
+/data/
+/models/
+/output/
+/uploads/
+
+# === Cache ===
+.cache/
+*.sqlite3
+
+# === Node ===
+node_modules/
